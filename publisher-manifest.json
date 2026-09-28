@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5e467ac9359aba5156ab3ca8",
+  "owner": "ju79qjwha",
+  "repo": "page-a2d5ef30d88e1d6c2df3cf36",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a2d5ef30d88e1d6c2df3cf36",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "35d05c1ce4cfa9ac3355ebf981d803e15df5e9c395c1e29c2afa2dfe9184b9eb",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬提供基础版、旗舰版和团队版网络加速服务，快速下载客户端，享受高速 VPN 和机场加速。",
+          "AI_DESCRIPTION": "快柠檬提供基础版、旗舰版和团队版网络加速服务，快速下载客户端，享受高速 VPN 和机场加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n\n    <header>\n        <nav>\n            <div>快柠檬</div>\n            <div>\n                <a href=\"#\">首页</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\">下载</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section>\n            <h1>快柠檬</h1>\n            <p>高效网络加速，稳定高速 VPN 服务，助力全球畅游</p>\n            <a href=\"#plans\">立即订阅</a>\n        </section>\n        <section>\n            <div>\n                <h2>品牌简介</h2>\n                <p>快柠檬致力于为用户提供优质的网络加速服务。通过快柠檬 VPN 和机场加速方案，让您享受稳定高速的互联网体验。</p>\n                <h2>使用场景</h2>\n                <p>适用于流媒体观看、在线游戏和多设备家庭使用，帮助用户突破网络限制，畅享全球内容。</p>\n                <h2>操作说明</h2>\n                <p>使用快柠檬非常简单：选择套餐订阅，下载官方客户端，按照提示连接节点，即可享受加速服务。</p>\n            </div>\n            <div>\n                <h2>套餐选择</h2>\n                {{PLANS_HTML}}\n            </div>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是快柠檬 VPN？</summary>\n                <p>快柠檬 VPN 是一款专注于网络加速和 VPN 服务的品牌，旨在提供稳定可靠的高速连接方案。</p>\n            </details>\n            <details>\n                <summary>快柠檬机场订阅流程</summary>\n                <p>快柠檬机场订阅后，可通过官网选择套餐并完成支付，享受对应流量和功能。</p>\n            </details>\n            <details>\n                <summary>客户端如何下载？</summary>\n                <p>在快柠檬官方网站下载官方客户端，获取安全安装包。</p>\n            </details>\n            <details>\n                <summary>快柠檬支持哪些设备？</summary>\n                <p>支持多种设备同时在线，具体取决于套餐配置。</p>\n            </details>\n            <details>\n                <summary>遇到问题如何解决？</summary>\n                <p>快柠檬提供 7x24 优先工单支持，技术团队将尽快协助。</p>\n            </details>\n        </section>\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            {{CLIENTS_HTML}}\n            <p>下载官方客户端，享受专业网络加速服务。</p>\n        </section>\n    </main>\n    <footer>\n        <p>© 快柠檬 2024 所有权利保留 | <a href=\"#\">隐私政策</a> | <a href=\"#\">用户协议</a></p>\n        <p>友情链接： <a href=\"#\">示例站点</a></p>\n    </footer>\n\n",
+          "hash": "1ad039780e19810976bca307e274d3f9eb4ec85142ffb27b66710b808a672df7",
+          "seo": {
+            "title": "快柠檬 VPN 机场 - 客户端下载 | 官方加速器",
+            "keywords": "快柠檬, VPN, 机场, 客户端下载, 加速器, 网络加速",
+            "description": "快柠檬提供基础版、旗舰版和团队版网络加速服务，快速下载客户端，享受高速 VPN 和机场加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fengkairc.cn",
+    "host": "home.fengkairc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "fengkairc.cn",
+      "url": "https://fengkairc.cn/",
+      "label": "比特云(Bitcloud)",
+      "apex": "fengkairc.cn",
+      "kind": null,
+      "identity": "yjjocltc/page-092b13be1c41375aa60757a7"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "62867fc50afcc277c6d4f07fd0c7149d760af981f89ee40e33e2456e11e411e8",
+    "sitemap.xml": "4bf36863942b66c8667e681fbf0c20c0dbb1ede0ca2f69cefa6bb1fb370190b4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "50d774d233482c2a72e79cd9cb9ac0aebc83ca32796b6dea036c3867d670c37b",
+    "robots.txt": "5966c25a4d3930098ac9d841c39c63171a2c86efa2c10c8b31ecdb6a223107de",
+    "fc8e5ac7a440cb6a649459d46d41df5e.txt": "c635daa0b3ee5f6db3b53af38234ada11129d97b452da43c4b63974d415fa5be"
+  },
+  "revision": "403c76aaf8833b45094822fd5c249a6ef8080a3f9320a7a61f865cd41d7fbb81"
+}
